@@ -344,14 +344,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $yellow;
+    color: #fff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $yellow;
+      color: #fff;
     }
   }
 }
