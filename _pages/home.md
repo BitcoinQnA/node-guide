@@ -115,7 +115,7 @@ You should also consider coinjoining your KYC stack. This will not erase your KY
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/Logo.png" class=responsive width="250" height="250" maxheight="250">
 
-#### Site created by [Bitcoin Q+A](https://twitter.com/BitcoinQ_A) of [BitcoinQnA.com](https://www.bitcoinqna.com/)
+Site created by [Bitcoin Q+A](https://twitter.com/BitcoinQ_A) of [BitcoinQnA.com](https://www.bitcoinqna.com/)
 
 ***
 
