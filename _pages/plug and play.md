@@ -66,7 +66,7 @@ Comes pre built with a Raspberry Pi4 4GB. User specifies type of storage.
 
 The [Nodl One](https://www.nodl.it/nodl-one.html) is a Rock Pi4 with 4GB ram and comes with a web based user interface.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/nodl-one-early-bird.jpg" class=responsive width="300" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/nodl-one-early-bird-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
 
 
 ### Features
