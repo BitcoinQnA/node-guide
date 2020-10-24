@@ -279,9 +279,9 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 80px;
-  height: 80px;
-  margin-right: 15px;
+  width: 90px;
+  height: 90px;
+  margin-right: 10px;
 
   @include mobile {
     float: none;
