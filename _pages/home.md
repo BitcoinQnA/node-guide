@@ -28,7 +28,7 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
     - [Umbrel](https://getumbrel.com/#start)
     
 -  **Custom Build** - Build your own node using any hardware you like
-    - [Self Build](/self-build) using your own hardware specifications
+    - [Self Build](/custom) using your own hardware specifications
 
 
 
