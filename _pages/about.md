@@ -3,8 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
-[No-KYC Only](https://bitcoinqna.github.io/noKYConly/) is a simple website aimed to educate newcomers in the Bitcoin space to the dangers and pitfalls of purchasing Bitcoin through a source that requires them to supply sensitive personal data. It is not designed to suggest that any entity requiring KYC information from its users are malicious.
+[Bitcoin Node Guide](https://node.guide/) was built to educate Bitcoiners on the importance of running a node. Our aim is to produce an information hub that provides you with enough knowledge on the different options to get you off zero.
 
-If you found the site useful and would like to add a few sats to our no-KYC stash...
+Your node, your rules.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://btcpayjungle.com/img/paybutton/pay.svg" class= responsive width= "250" height="75" maxheight="75" >](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos)
+We aim to keep this site up to date with the devlopment or additions of new nodes but the Bitcoin industry is a fast moving one so if you see something incrorrect or missing, please help us out by creating a [pull request](https://github.com/BitcoinQnA/node-guide).
+
+***
+
+<p align="center">
+  <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
+  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
+  <a href="https://github.com/BitcoinQnA/node-guide">Create a PR</a> 
+  <br><br>
+</p>
+
