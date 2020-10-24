@@ -112,31 +112,47 @@ Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 1TB SSD.
 ## Nodl Dojo
 
 
+The [Nodl Dojo](https://www.nodl.it/nodl-dojo.html) is similar to the Nodl One at its core. The main differences are a custom red case, fully encrypted SSDs, RAID 1 mirroring for extra redundancy (if one SSD fails, your node continues to run) and a premium support package. 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/nodl-dojo-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
+
+
 ### Features
+
+* RTL
+* Electrum Server (*Electrs*)
+* BTC Pay Server
+* BTC Explorer
+* Samourai Dojo + Whirlpool
+* Remote access via Tor or VPN
+* One click upgrades
+* Full SSD encryption
+* RAID Mirroring
 
 
 ### Ease of setup
 
+Once you receive the device, connect the hardware and power it on. Visit `http://nodl.local:8338/` with your phone, laptop or computer. Click on the Nodl logo, set your password and you will then see the Nodl homepage.
 
 
 ### Limitations
 
-
+Stock is limited and sells out fast.
 
 ### Cost
 
+* $849
 
 ### Recommended Hardware
 
-
+Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 2x 1TB SSDs.
 
 ### Other resources
 
-* [Codebase](https://github.com/bitcoin/bitcoin)
-* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
-* [Support Channels](https://bitcoin.org/en/bitcoin-core/help)
-* [Bitcoin IRC](https://bitcoin.org/en/bitcoin-core/help#live)
-* [Setup Video](https://www.youtube.com/watch?v=xc_TxlByxeY)
+* [Codebase](https://gitlab.lightning-solutions.eu/search?utf8=%E2%9C%93&search=nodl&group_id=&project_id=&repository_ref=)
+* [Telegram](https://t.me/nodl_it)
+* [Guide Page](https://docs.lightning-solutions.eu/nodl-box/quick-start/getting-started)
+* [Setup Video](https://www.keepitsimplebitcoin.com/setup-nodl/)
 
 ***
 
