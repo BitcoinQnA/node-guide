@@ -34,15 +34,12 @@ Your node = your rules.
 
 
 
-<br/>
-
-[Pull requests](https://github.com/BitcoinQnA/node-guide) and suggestions are welcomed
-
 ***
 
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
-  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a>
+  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
+  <a href="https://github.com/BitcoinQnA/node-guide">Create a PR</a> 
   <br><br>
 </p>
 
