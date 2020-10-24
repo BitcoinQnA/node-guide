@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-[Bitcoin Node Guide](https://node.guide/) was built to educate Bitcoiners on the importance of running a node. Our aim is to produce an information hub that provides you with enough knowledge on the different options to get you off zero.
+[Bitcoin Node Guide](https://node.guide/) was built to educate Bitcoiners on the importance of running a node. Our aim is to produce an information hub that provides you with enough knowledge to decide which implementation is right for you.
 
 ***Your node, your rules.***
 
