@@ -28,7 +28,7 @@ The software itself is free. Other costs are dependant on the hardware you choos
 
 ### Recommended Hardware
 
-Any laptop or computer and a [robust](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603541969&sr=8-3) SSD. 
+Any laptop or computer and a robust [SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603541969&sr=8-3).
 
 
 ### Other resources
