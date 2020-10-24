@@ -4,7 +4,7 @@ title: Bitcoin Core
 permalink: /core/
 ---
 
-[Bitcoin Core](https://bitcoincore.org/) is the most popular and simplist way to run your own node. Core is software that you can download in a matter of clicks onto any laptop or computer. If you want to run a node quickly and without spending a lot, core is the best option to get started.
+[Bitcoin Core](https://bitcoincore.org/) is the most popular and simplest way to run your own node. Core is software that you can download in a matter of clicks onto any laptop or computer. If you want to run a node quickly and without spending a lot, core is the best option to get started.
 
 ### Features
 
