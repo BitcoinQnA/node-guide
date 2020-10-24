@@ -177,11 +177,11 @@ span[data-pullquote]:before {
 }
 
 a {
-  color: #fff;
+  color: $yellow;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $yellow;
+    color: #ffeb9b;
   }
 }
 
