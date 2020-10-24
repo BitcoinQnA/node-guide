@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DIY Build
-permalink: /diy/
+permalink: /do-it-yourself/
 ---
 
 ### Why run a node?
