@@ -27,7 +27,7 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
     - [RoninDojo](https://wiki.ronindojo.io/)
     - [Umbrel](https://getumbrel.com/#start)
     
--  **Custom Build** - Build your own node using any hardware you like
+-  **Custom Build** - Using your own specified hardware
     - [Self Build](/custom) using your own hardware specifications
 
 
