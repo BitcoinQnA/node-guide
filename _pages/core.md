@@ -4,4 +4,3 @@ title: Bitcoin Core
 permalink: /core/
 ---
 
-####
