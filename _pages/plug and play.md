@@ -18,7 +18,7 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 
 The [myNode One](https://mynodebtc.com/products/one) is a Raspberry Pi4 4GB and comes packaged with their premium software which provides extra features and support. The myNode software comes with a beginner friendly web based user interface and is packed with features. At time of writing myNode currently offers 15 different Bitcoin and Lightning related applications.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/d3.jpg" class=responsive width="300" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/d3-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
 
 
 ### Features
@@ -160,31 +160,54 @@ Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 2x 1TB SSDs.
 ## RaspiBlitz
 
 
+The [RaspiBlitz](https://shop.fulmo.org/raspiblitz/) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz boasts rock sold uptime and well tested update procedures. 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/RaspiBlitz-1-e1589380849195.png" class=responsive width="300" height="250" maxheight="250">
+
+
 ### Features
+
+* RTL
+* Thunderhub
+* Electrum Server (*Electrs*)
+* BTC Pay Server
+* BTC Explorer
+* LN Bits
+* Specter Desktop
+* Mempool Viewer
+* Joinmarket
+* Loop
+* IP 2 Tor
+* Remote access via Tor
+* Touchscreen display
 
 
 ### Ease of setup
 
+Once you receive the device, connect the hardware and power it on. You should then see the local IP and password address of your RaspiBlitz on the LCD panel. Using an [SSH tool](https://en.wikipedia.org/wiki/Comparison_of_SSH_clients), connect through to your RaspiBlitz and finish the setup process.
 
 
 ### Limitations
 
-
+Lack of web user interface may put some users off.
 
 ### Cost
 
+* 269 EUR (*2GB)
+* 299 EUR (*4GB)
+* 369 EUR (*8GB)
+* 379 EUR (* 4GB with metal case)
 
 ### Recommended Hardware
 
-
+Comes pre built with a Raspberry PI with a selection of 2,4 or 8GB ram, 1TB SSD and a touchscreen and optional 'terminal style' metal case.
 
 ### Other resources
 
-* [Codebase](https://github.com/bitcoin/bitcoin)
-* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
-* [Support Channels](https://bitcoin.org/en/bitcoin-core/help)
-* [Bitcoin IRC](https://bitcoin.org/en/bitcoin-core/help#live)
-* [Setup Video](https://www.youtube.com/watch?v=xc_TxlByxeY)
+* [Codebase](https://github.com/rootzoll/raspiblitz)
+* [Telegram](https://t.me/raspiblitz)
+* [Guide Page](https://github.com/rootzoll/raspiblitz)
+* [Deep Dive Video](https://www.youtube.com/watch?v=_cjGxjze8PM)
 
 ***
 
