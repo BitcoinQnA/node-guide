@@ -12,22 +12,22 @@ Your node = your rules.
 
 ### Types of node 
 
--  **Bitcoin Core**
-   - Running the [Bitcoin Core](https://bitcoincore.org/en/download/) software on a computer
+-  **Bitcoin Core** - Running the Bitcoin core software on a computer
+   - [Bitcoin Core](https://bitcoincore.org/en/download/)
 
--  **Plug + Play** Pre built dedicated node boxes that are ready to roll
+-  **Plug + Play** - Pre built dedicated node boxes that are ready to roll
     - [myNode One](https://mynodebtc.com/products/one)
     - [Nodl One](https://shop.nodl.it/en/) and [Nodl Dojo](https://shop.nodl.it/en/)
     - [Raspi Blitz](https://shop.fulmo.org/product-category/raspiblitz/)
     - [Start9 Embassy](https://store.start9labs.com/collections/embassy)
 
--  **DIY** Build your own node using specified hardware + software
+-  **DIY** - Build your own node using specified hardware + software
     - [myNode](https://mynodebtc.com/products/community_edition)
     - [Raspi Blitz](https://github.com/rootzoll/raspiblitz)
     - [RoninDojo](https://wiki.ronindojo.io/)
     - [Umbrel](https://getumbrel.com/#start)
     
--  **Custom Build** Build your own node using any hardware you like
+-  **Custom Build** - Build your own node using any hardware you like
     - [Self Build](/self-build) using your own hardware specifications
 
 
