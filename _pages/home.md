@@ -14,7 +14,7 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
 
 Bitcoin nodes can come in many forms. Below are the four main categories they fit into and the external links to the projects we have covered. 
 
-Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/node-guide) and we will investigate.
+Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/node-guide) and we will check you out.
 
 -  **Bitcoin Core** - Running the Bitcoin core software on a computer
    - [Bitcoin Core](https://bitcoincore.org/en/download/)
