@@ -329,19 +329,11 @@ p > img {
   }
 }
 
-.nav {
+ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
-  text-align:center;
-}
-.nav li{
-	display:inline;
-}
-.nav a{
-	display:inline-block;
-}
 	
   @include mobile {
     float: none;
