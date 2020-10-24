@@ -215,28 +215,43 @@ Comes pre built with a Raspberry PI with a selection of 2,4 or 8GB ram, 1TB SSD 
 ## Start9 Embassy
 
 
+The [Embassy One](https://store.start9labs.com/collections/embassy/products/embassy-one) is a new node implementation with a focus on making setup and interaction a frictionless as possible. The Embassy is limited in features but is working towards becoming your own personal server that does more than just be a Bitcoin node. 
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/Embassy-Evolution_360x.png" class=responsive width="300" height="250" maxheight="250">
+
+
 ### Features
+
+* Cups encrypted messaging
+* EBitwarden password manager
+* File browser
+* Remote Tor access
+* Companion phone app
+* Web based UI
+
 
 
 ### Ease of setup
 
-
+Once you receive the device, connect the hardware and power it on. Inside the setup app, enter your product key and then create your password. You can now log in and start intalling and using the available services.
 
 ### Limitations
 
-
+Limited stock and functionality, no Lightning network.
 
 ### Cost
 
+* $239 (*no hard drive*)
 
 ### Recommended Hardware
 
-
+Comes pre built with a Raspberry Pi 4GB.
 
 ### Other resources
 
-* [Codebase](https://github.com/bitcoin/bitcoin)
-* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Help:Installing_Bitcoin_Core)
-* [Support Channels](https://bitcoin.org/en/bitcoin-core/help)
-* [Bitcoin IRC](https://bitcoin.org/en/bitcoin-core/help#live)
-* [Setup Video](https://www.youtube.com/watch?v=xc_TxlByxeY)
+* [Codebase](https://github.com/Start9Labs)
+* [Telegram](https://t.me/start9_labs)
+* [Guide Page](https://docs.start9labs.com/)
+* [Setup Video](https://www.youtube.com/watch?v=YMStLevc034)
+
+***
