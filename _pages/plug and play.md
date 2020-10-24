@@ -41,7 +41,7 @@ Once you receive the device, connect the hardware and power it on. Visit `http:/
 
 ### Limitations
 
-Currently only shipping to the U.S and Canada. 
+Some users report reliability issues. Currently only shipping to the U.S and Canada.
 
 ### Cost
 
