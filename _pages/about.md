@@ -7,7 +7,7 @@ permalink: /about/
 
 Your node, your rules.
 
-We aim to keep this site up to date with the devlopment or additions of new nodes but the Bitcoin industry is a fast moving one so if you see something incrorrect or missing, please help us out by creating a [pull request](https://github.com/BitcoinQnA/node-guide).
+We aim to keep this site up to date with the devlopment or additions of new nodes but the Bitcoin industry is a fast moving one, so if you see something incrorrect or missing, please help us out by creating a [pull request](https://github.com/BitcoinQnA/node-guide).
 
 ***
 
