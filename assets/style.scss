@@ -319,15 +319,6 @@ p > img {
   }
 }
 
-a {
-  color: #fff;
-  text-decoration: none;
-	cursor: pointer;
-  &:hover, &:active {
-    color: $yellow;
-  }
-}
-
 .site-description {
   margin: -5px 0 0 0;
   color: #fff;
