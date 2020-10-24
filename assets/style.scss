@@ -329,7 +329,7 @@ p > img {
   }
 }
 
-nav {
+.nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
@@ -338,6 +338,9 @@ nav {
 }
 .nav li{
 	display:inline;
+}
+.nav a{
+	display:inline-block;
 }
 	
   @include mobile {
