@@ -17,7 +17,7 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
 
 -  **Plug + Play** - Pre built dedicated node boxes that are ready to roll
     - [myNode One](https://mynodebtc.com/products/one)
-    - [Nodl One](https://shop.nodl.it/en/) and [Nodl Dojo](https://shop.nodl.it/en/)
+    - [Nodl One](https://shop.nodl.it/en/) + [Nodl Dojo](https://shop.nodl.it/en/)
     - [Raspi Blitz](https://shop.fulmo.org/product-category/raspiblitz/)
     - [Start9 Embassy](https://store.start9labs.com/collections/embassy)
 
