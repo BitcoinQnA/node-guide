@@ -14,3 +14,11 @@ There are plenty of options when it comes to running your own node. The previous
 
 [Ubuntu Node Box](https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle&index=1) is a video guide by Ketan of [Ministry of Nodes](https://www.ministryofnodes.com.au/). In this series, Ketan covers setting up a node in an Ubuntu virtual machine to download and install Bitcoin Core, Electrum Server, Lightning, BTCPay Server, JoinMarket, Whirlpool and much more.
 
+#### Nix Bitcoin
+
+[Nix Bitcoin](https://github.com/fort-nix/nix-bitcoin) Nix packages and nixos modules for easily installing Bitcoin nodes and higher layer protocols with an emphasis on security. This is a work in progress - don't expect it to be bug-free, secure or stable. The default configuration sets up a Bitcoin Core node and c-lightning.
+
+#### Cyphernode
+
+[Cyphernode](https://github.com/SatoshiPortal/cyphernode) is designed to be deployed on virtual machines with launch scripts, but with efficiency and minimalism in mind so that it can also run on multiple Rasberry Pi with very low computing ressources (and extremely low if installing pre-synchronized blockchain and pruned). Because of the modular architecture, heavier modules like blockchain indexers are optional (and not needed for most commercial use-cases).
+
