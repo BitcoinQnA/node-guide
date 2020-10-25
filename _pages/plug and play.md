@@ -225,7 +225,7 @@ The [Embassy One](https://store.start9labs.com/collections/embassy/products/emba
 ### Features
 
 * Cups encrypted messaging
-* EBitwarden password manager
+* Bitwarden password manager
 * File browser
 * Remote Tor access
 * Companion phone app
