@@ -281,7 +281,8 @@ p > img {
   float: left;
   width: 90px;
   height: 90px;
-  margin-right: 10px;
+  margin-right: 5px;
+  padding-left: 250px;
 
   @include mobile {
     float: none;
