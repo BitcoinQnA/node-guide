@@ -239,3 +239,5 @@ Still an early project with minimal 'extra' features when compared with some of 
 * [Setup Video](https://www.youtube.com/watch?v=fppmhqjqh2E)
 
 ***
+
+Check out the [other](/other) options available for more advanced users.
