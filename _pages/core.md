@@ -4,6 +4,8 @@ title: Bitcoin Core
 permalink: /core/
 ---
 
+'Bitcoin Core' is the name of the [software](https://github.com/bitcoin/bitcoin) at the heart of **every** node implementation listed on this website. It is the ruleset that all Bitcoin users agree upon. The rest of this page covers the graphical user interface that is built around this software and is maintained by Core [developers](https://github.com/bitcoin/bitcoin/graphs/contributors).  
+
 [Bitcoin Core](https://bitcoincore.org/) is the most popular and simplest way to run your own node. Core is software that you can download in a matter of clicks onto any laptop or computer. If you want to run a node quickly and without spending a lot, Core is the best option to get started. The user interface is somewhat basic (by design) but comes with everything you need to send/receive and verify your own transactions with your own node.
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/photo_2020-10-25_16-27-15.jpg" class=responsive width="500" height="350" maxheight="350">
