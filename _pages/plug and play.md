@@ -116,7 +116,7 @@ Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 1TB SSD.
 
 The [Nodl Dojo](https://www.nodl.it/nodl-dojo.html) is similar to the Nodl One at its core. The main differences are a custom red case, fully encrypted SSDs, RAID 1 mirroring for extra redundancy (if one SSD fails, your node continues to run) and a premium support package. 
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/rsz_nodl-dojo-removebg-preview.png" class=responsive width="200" height="175" maxheight="300">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/angled-box.png" class=responsive width="200" height="175" maxheight="300">
 
 
 ### Features
