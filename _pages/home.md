@@ -8,6 +8,17 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
 
 ***Your node, your rules.***
 
+### Considerations
+
+When choosing which type of node you want to run there are many things you should consider, first and foremost is your budget and technical abilities. Here are some other questions to answer before making an informed decision.
+
+1. What do you need from a node?
+2. What features are you actually going to use?
+3. Which wallets you want to connect to your node?
+4. What hardware does your chosen project support?
+5. What level of support/community is there?
+6. Is the project being actively developed and maintained?
+
 ***
 
 ### Types of node 
@@ -33,8 +44,6 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     
 -  **Other Options** - Customised setups 
     - [Other](/other) using your own hardware and software specifications
-
-
 
 
 
