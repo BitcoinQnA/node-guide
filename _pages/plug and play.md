@@ -235,7 +235,7 @@ The [Embassy One](https://store.start9labs.com/collections/embassy/products/emba
 
 ### Ease of setup
 
-Once you receive the device, connect the hardware and power it on. Inside the setup app, enter your product key and then create your password. You can now log in and start intalling and using the available services.
+Once you receive the device, connect the hardware and power it on. Inside the setup app, enter your product key and then create your password. You can now log in and start installing and using the available services.
 
 ### Limitations
 
