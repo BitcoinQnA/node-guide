@@ -12,5 +12,5 @@ There are plenty of options when it comes to running your own node. The previous
 
 #### Ubuntu Node Box (Virtual Machine)
 
-[Ubuntu Node Box](https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle&index=1) is a video guide by Ketan of [Ministry of Nodes](https://www.ministryofnodes.com.au/). In this series, Ketan covers setting up a node in an Ubuntu virtual machine to download and install Bitcoin core, Electrum Server, Lightning, BTCPay Server, JoinMarket, Whirlpool and much more.
+[Ubuntu Node Box](https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle&index=1) is a video guide by Ketan of [Ministry of Nodes](https://www.ministryofnodes.com.au/). In this series, Ketan covers setting up a node in an Ubuntu virtual machine to download and install Bitcoin Core, Electrum Server, Lightning, BTCPay Server, JoinMarket, Whirlpool and much more.
 
