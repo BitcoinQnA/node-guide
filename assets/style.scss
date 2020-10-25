@@ -336,6 +336,7 @@ p > img {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  text-align: center;
 	
   @include mobile {
     float: none;
