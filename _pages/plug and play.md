@@ -14,6 +14,8 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 4.  [RaspiBlitz](#raspiblitz)
 5.  [Start9 Embassy](#start9-embassy)
 
+***
+
 ## myNode One
 
 The [myNode One](https://mynodebtc.com/products/one) is a Raspberry Pi4 4GB and comes packaged with their premium software which provides extra features and support. The myNode software comes with a beginner friendly web based user interface and is packed with features. At time of writing myNode currently offers 15 different Bitcoin and Lightning related applications.
