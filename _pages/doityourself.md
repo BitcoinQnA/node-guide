@@ -114,7 +114,7 @@ The [RaspiBlitz](https://github.com/rootzoll/raspiblitz) is one of the longest s
 
 ### Ease of setup
 
-Order and assemble your desired hardware. Connect to power and your router, then power on the device. You should then see the local IP and password address of your RaspiBlitz on the LCD panel. Using an SSH tool, connect through to your RaspiBlitz and finish the setup process.
+Order and assemble your desired hardware. Download the [latest software](https://github.com/rootzoll/raspiblitz#downloading-the-software) and flash it to your SD card. Connect to power and your router, then power on the device. You should then see the local IP and password address of your RaspiBlitz on the LCD panel. Using an SSH tool, connect through to your RaspiBlitz and finish the setup process.
 
 ### Limitations
 
@@ -122,14 +122,14 @@ Lack of web user interface may put some users off.
 
 ### Cost
 
-* $279 (*Pi 4 Configuration below*)
+* $279 (*Pi 4 configuration below*)
 
 ### Recommended Hardware
 
 The RaspiBlitz team have provided their own recommended [shopping list](https://github.com/rootzoll/raspiblitz#amazon-shopping-list-buy-parts--build-it-yourself) based on your budget. Be wary using cheaper components or lower powered SBC's as you may run into issues.
 
 - **Raspberry Pi 4**
-  - [Raspberry Pi 4 4GB Ram](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4&qid=1603628063&sr=8-3) - $56
+  - [Raspberry Pi 4 4GB](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4&qid=1603628063&sr=8-3) - $56
   - [Power Supply](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4+power+supply&qid=1603628117&sr=8-3) - $8
   - [Samsung 1TB SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603620536&sr=8-3) - $170
   - [Micro SD Card](https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B073JWXGNT/ref=sr_1_3?dchild=1&keywords=micro+sd+card+32gb&qid=1603628217&sr=8-3) - $9
@@ -146,6 +146,60 @@ The RaspiBlitz team have provided their own recommended [shopping list](https://
 ***
 
 ## RoninDojo
+
+[RoninDojo](https://ronindojo.io/) is the node for privacy focused Samourai Wallet enthusiasts. They provide support for the Raspberry Pi, Rock64, RockPro 64, RockPi 4 and Odroid N2. The RoninDojo team keep Samourai Wallet as the main focus of their development, but also provide support for almost all other wallets via an Electrum Server. After setup users can choose to interact with a command line interface or the graphical UI shown below. It's worth noting that the [setup](https://wiki.ronindojo.io/en/gui-setup/start) procedure requires a small amount of command line.   
+
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/RoninDojoGUI-product.png" class=responsive width="600" height="350" maxheight="350">
+
+
+### Features
+
+* Samourai Dojo
+* Samourai Whirlpool
+* BTC Explorer
+* Electrum Server (*Electrs*)
+* Runs over Tor
+* Whirlpool Stat Tool (*For calculating anonymity sets*)
+* Boltzmann (*For calculating transaction entropy*)
+* Mempool Viewer
+
+
+### Ease of setup
+
+Order and assemble your desired hardware. Download the [latest software](https://ronindojo.io/downloads/) and flash it to your SD card. Connect to power and your router, then power on the device. Search your network for the devices IP address using a [network scanner](https://angryip.org/). Connect to your device using an SSH tool and complete the [setup](https://wiki.ronindojo.io/gui-setup/step1) process.  
+
+### Limitations
+
+Lack of Lightning network integration may put some users off.
+
+### Cost
+
+* $325 (*RockPro 64 configuration below*)
+* $293 (*Pi 4 configuration below*)
+
+### Recommended Hardware
+
+The RoninDojo team have provided their own recommended [shopping list](https://wiki.ronindojo.io/en/hardware) based on your budget. Be wary using cheaper components or lower powered SBC's as you may run into issues.
+
+- **RockPro 64**
+  - [Pine64 Build Kit](https://minefarmbuy.com/product/pine-build/?v=a284e24d5f46) (*Everything included. Use code #ronindojo for a discount*) - From $325
+  
+- **Raspberry Pi 4 - Geekworm Kit*  
+  - [Raspberry Pi 4 4GB](https://amzn.to/39rYRch) - $56 
+  - [Geekworm X825 Metal Case+Power Switch+Cooling Fan](https://amzn.to/2Rppc5g) - $29
+  - [Geekworm X735 Power Management with Safe Shutdown Auto Cooling Expansion Board](https://amzn.to/2UHD5Mr) - $29 
+  - [Geekworm 2.5 inch SATA HDD/SSD Expansion Board X825](https://amzn.to/2vUETco) - $33 
+  - [Geekworm DC 5V 4A Power Adapter](https://amzn.to/2XTtLrp) - $19
+  - [SD Card SanDisk Industrial 16GB](https://www.amazon.com/dp/B07CV344WJ/) - $13
+  - [Samsung EVO 1TB](https://amzn.to/30lDpoo) - $114
+  
+### Other resources
+
+* [Codebase](https://code.samourai.io/ronindojo)
+* [Telegram](https://t.me/RoninDojoUI)
+* [Wiki Page](https://wiki.ronindojo.io)
+* [Setup Video](https://youtu.be/5CxjRXixg4s)
 
 ***
 
