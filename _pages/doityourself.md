@@ -175,8 +175,8 @@ Lack of Lightning network integration may put some users off.
 
 ### Cost
 
-* $325 (*RockPro 64 configuration below*)
 * $293 (*Pi 4 configuration below*)
+* $325 (*RockPro 64 configuration below*)
 
 ### Recommended Hardware
 
