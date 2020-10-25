@@ -195,10 +195,10 @@ Lack of web user interface may put some users off.
 
 ### Cost
 
-* 269 EUR (*2GB)
-* 299 EUR (*4GB)
-* 369 EUR (*8GB)
-* 379 EUR (* 4GB with metal case)
+* 269 EUR (*2GB*)
+* 299 EUR (*4GB*)
+* 369 EUR (*8GB*)
+* 379 EUR (*4GB with metal case*)
 
 ### Recommended Hardware
 
