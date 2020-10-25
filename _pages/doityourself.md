@@ -54,7 +54,7 @@ The [myNode](https://mynodebtc.com/download) software has downloadable images fo
 
 ### Ease of setup
 
-Order and assemble your desired hardware. Connect to power and your router and power the device on. Visit `http://mynode.local/` with your phone, laptop or computer. If you bought the premium package, enter the product key that was supplied with the device otherwise choose the community option. Your initial block download will then commence.
+Order and assemble your desired hardware. Connect to power and your router, then power on the device. Visit `http://mynode.local/` with your phone, laptop or computer. If you bought the premium package, enter the product key that was supplied with the device otherwise choose the community option. Your initial block download will then commence.
 
 
 ### Limitations
@@ -63,15 +63,19 @@ Some users report reliability issues when upgrading. Support is limited due to a
 
 ### Cost
 
-* $286 (*With Pi4 + Optional passive cooling case*)
-* 
+* $286 (*Pi4 + Optional passive cooling case*)
+* $325 (*RockPro 64 Pine Build Kit*)
 
 
 ### Recommended Hardware
 
-* [Labists Pi4 Starter Kit](https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07YRSYR3M/ref=sr_1_2_sspa?dchild=1&keywords=raspberry+pi+4+kit&qid=1603620426&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVVg4S0JCSlRaU0NHJmVuY3J5cHRlZElkPUEwMDg0NDczMUxMOEdIWUdZRURGNSZlbmNyeXB0ZWRBZElkPUEwODU0MTYzM0xUSDJLT1ZTMU1WWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - $100
-* [Samsung 1TB SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603620536&sr=8-3) - $170
-* [Passive Cooling Case](https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4+cooling+case&qid=1603620719&sr=8-3) - $16 (*Optional - No fan noise*)
+- **Raspberry Pi 4**
+  - [Labists Pi4 Starter Kit](https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07YRSYR3M/ref=sr_1_2_sspa?dchild=1&keywords=raspberry+pi+4+kit&qid=1603620426&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVVg4S0JCSlRaU0NHJmVuY3J5cHRlZElkPUEwMDg0NDczMUxMOEdIWUdZRURGNSZlbmNyeXB0ZWRBZElkPUEwODU0MTYzM0xUSDJLT1ZTMU1WWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - $100
+  - [Samsung 1TB SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603620536&sr=8-3) - $170
+  - [Passive Cooling Case](https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4+cooling+case&qid=1603620719&sr=8-3) - $16 (*Optional - No fan noise*)
+  
+- **RockPro 64**
+  - [Pine64 Build Kit](https://minefarmbuy.com/product/pine-build/?v=a284e24d5f46) (*Everything included*) - From $325
 
 
 ### Other resources
