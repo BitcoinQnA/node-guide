@@ -8,6 +8,8 @@ A node is a computer that runs the Bitcoin software. Your node is your own versi
 
 ***Your node, your rules.***
 
+***
+
 ### Considerations
 
 When choosing which type of node you want to run there are many things you should consider, first and foremost is your budget and technical abilities. Here are some other questions to answer before making an informed decision.
