@@ -205,51 +205,46 @@ The RoninDojo team have provided their own recommended [shopping list](https://w
 
 ## Umbrel
 
-[Umbrel](https://getumbrel.com/)  
-
+[Umbrel](https://getumbrel.com/) is a relatively new node project that boasts arguably the easiest setup process of any of the DIY node implementations. Umbrel supports the Raspberry Pi 4 and can also be ran in a virtual machine. Umbrel is completely free and uses an easy to navigate web based UI that makes running a node very straight forward for beginners.  
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/hero-p-1080.png" class=responsive width="600" height="350" maxheight="350">
 
 
 ### Features
 
-* 
-
+* Simple setup
+* Ability to use the node before IBD is completed
+* Automatic backups
+* Electrum Server (*Electrs*)
+* Remote Tor access
+* Wallet connection screen
 
 
 ### Ease of setup
 
-Order and assemble your desired hardware. Download the [latest software](https://ronindojo.io/downloads/) and flash it to your SD card. Connect to power and your router, then power on the device. Search your network for the devices IP address using a [network scanner](https://angryip.org/). Connect to your device using an SSH tool and complete the [setup](https://wiki.ronindojo.io/gui-setup/step1) process.  
+Order and assemble your desired hardware. Download the [latest software](https://github.com/getumbrel/umbrel-os/releases/latest) and flash it to your SD card. Connect to power and your router, then power on the device. Visit `http://umbrel.local/` with your phone, laptop or computer to finish the simple setup process.
 
 ### Limitations
 
-
+Still an early project with minimal 'extra' features when compared with some of the more mature projects.
 
 ### Cost
 
-* $
+* $286 (*Pi4 + Optional passive cooling case*)
 
 ### Recommended Hardware
 
-The RoninDojo team have provided their own recommended [shopping list](https://wiki.ronindojo.io/en/hardware) based on your budget. Be wary using cheaper components or lower powered SBC's as you may run into issues.
+- **Raspberry Pi 4**
+  - [Labists Pi4 Starter Kit](https://www.amazon.com/LABISTS-Raspberry-Complete-Preloaded-Heatsinks/dp/B07YRSYR3M/ref=sr_1_2_sspa?dchild=1&keywords=raspberry+pi+4+kit&qid=1603620426&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVVg4S0JCSlRaU0NHJmVuY3J5cHRlZElkPUEwMDg0NDczMUxMOEdIWUdZRURGNSZlbmNyeXB0ZWRBZElkPUEwODU0MTYzM0xUSDJLT1ZTMU1WWCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) - $100
+  - [Samsung 1TB SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603620536&sr=8-3) - $170
+  - [Passive Cooling Case](https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4+cooling+case&qid=1603620719&sr=8-3) - $16 (*Optional - No fan noise*)
 
-- **RockPro 64**
-  - [Pine64 Build Kit](https://minefarmbuy.com/product/pine-build/?v=a284e24d5f46) (*Everything included. Use code #ronindojo for a discount*) - From $325
-  
-- **Raspberry Pi 4 - Geekworm Kit*  
-  - [Raspberry Pi 4 4GB](https://amzn.to/39rYRch) - $56 
-  - [X825 Metal Case](https://amzn.to/2Rppc5g) - $29
-  - [X735 Power Management Expansion Board](https://amzn.to/2UHD5Mr) - $29 
-  - [2.5 inch SATA HDD/SSD Expansion Board X825](https://amzn.to/2vUETco) - $33 
-  - [Power Adapter](https://amzn.to/2XTtLrp) - $19
-  - [Industrial SD Card 16GB](https://www.amazon.com/dp/B07CV344WJ/) - $13
-  - [Samsung EVO 1TB SSD](https://amzn.to/30lDpoo) - $114
   
 ### Other resources
 
-* [Codebase](https://code.samourai.io/ronindojo)
-* [Telegram](https://t.me/RoninDojoUI)
-* [Wiki Page](https://wiki.ronindojo.io)
-* [Setup Video](https://youtu.be/5CxjRXixg4s)
+* [Codebase](https://github.com/getumbrel/umbrel)
+* [Telegram](https://t.me/getumbrel)
+* [Setup Guide](https://github.com/getumbrel/umbrel-os#-getting-started)
+* [Setup Video](https://www.youtube.com/watch?v=fppmhqjqh2E)
 
 ***
