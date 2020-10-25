@@ -10,7 +10,7 @@ You should choose the project that suits your requirements and skill level. Here
 
 1. What do you need from a node?
 2. What features are you actually going to use?
-3. Which wallets are you wanting to connect to your node?
+3. Which wallets you want to connect to your node?
 4. What hardware does your chosen project support?
 5. What level of support/community is there?
 6. Is the project being actively developed and maintained?
@@ -88,6 +88,60 @@ Some users report reliability issues when upgrading. Support is limited due to a
 ***
 
 ## RaspiBlitz
+
+The [RaspiBlitz](https://github.com/rootzoll/raspiblitz) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz is focused more towards those who like to tinker and dont require the shinier user interfaces that some implementations offer. The Blitz also boasts rock sold uptime and well tested update procedures. The entire Blitz software package is free and open source. 
+
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/mainmenu.png" class=responsive width="300" height="400" maxheight="400">
+
+
+### Features
+
+* RTL
+* Thunderhub
+* Electrum Server (*Electrs*)
+* BTC Pay Server
+* BTC Explorer
+* LN Bits
+* Specter Desktop
+* Mempool Viewer
+* Joinmarket
+* Loop
+* IP 2 Tor
+* Remote access via Tor
+* Touchscreen display
+
+
+### Ease of setup
+
+Order and assemble your desired hardware. Connect to power and your router, then power on the device. You should then see the local IP and password address of your RaspiBlitz on the LCD panel. Using an SSH tool, connect through to your RaspiBlitz and finish the setup process.
+
+### Limitations
+
+Lack of web user interface may put some users off.
+
+### Cost
+
+* $279 (*Pi 4 Configuration below*)
+
+### Recommended Hardware
+
+The RaspiBlitz team have provided their own recommended [shopping list](https://github.com/rootzoll/raspiblitz#amazon-shopping-list-buy-parts--build-it-yourself) based on your budget. Be wary using cheaper components or lower powered SBC's as you may run into issues.
+
+- **Raspberry Pi 4**
+  - [Raspberry Pi 4 4GB Ram](https://www.amazon.com/Raspberry-Model-2019-Quad-Bluetooth/dp/B07TC2BK1X/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4&qid=1603628063&sr=8-3) - $56
+  - [Power Supply](https://www.amazon.com/Raspberry-Model-Official-SC0218-Accessory/dp/B07W8XHMJZ/ref=sr_1_3?dchild=1&keywords=raspberry+pi+4+power+supply&qid=1603628117&sr=8-3) - $8
+  - [Samsung 1TB SSD](https://www.amazon.com/SAMSUNG-Portable-SSD-1TB-MU-PC1T0H/dp/B0874YJP92/ref=sr_1_3?dchild=1&keywords=samsung+1tb+ssd+t5&qid=1603620536&sr=8-3) - $170
+  - [Micro SD Card](https://www.amazon.com/SanDisk-Ultra-microSDXC-Memory-Adapter/dp/B073JWXGNT/ref=sr_1_3?dchild=1&keywords=micro+sd+card+32gb&qid=1603628217&sr=8-3) - $9
+  - [LCD Screen](https://geni.us/raspiblitz-touchscreen) - $20
+  - [Heatsink Case](https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A03601641W6U1LL4RFF20&url=%2FGeekworm-Raspberry-Computer-Aluminum-Compatible%2Fdp%2FB07VD568FB%2Fref%3Dsr_1_9_sspa%3Fcrid%3D18FNN8U7JQ660%26dchild%3D1%26keywords%3Dgeekworm%2Bheatsink%26qid%3D1603628339%26sprefix%3Dgeekworm%2Bhea%252Caps%252C244%26sr%3D8-9-spons%26psc%3D1&qualifier=1603628338&id=8022908327277922&widgetName=sp_mtf) - $16
+
+### Other resources
+
+* [Codebase](https://github.com/rootzoll/raspiblitz)
+* [Telegram](https://t.me/raspiblitz)
+* [Guide Page](https://github.com/rootzoll/raspiblitz)
+* [Deep Dive Video](https://www.youtube.com/watch?v=_cjGxjze8PM)
 
 ***
 
