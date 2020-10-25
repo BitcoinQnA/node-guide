@@ -45,3 +45,5 @@ Any laptop or computer and a robust [SSD](https://www.amazon.com/SAMSUNG-Portabl
 * [Setup Video](https://www.youtube.com/watch?v=xc_TxlByxeY)
 
 ***
+
+Tried core and decided you want a dedicated node box? Check out the [Plug + Play](/plug-and-play/) page.
