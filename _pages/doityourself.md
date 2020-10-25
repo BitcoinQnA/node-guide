@@ -6,15 +6,6 @@ permalink: /do-it-yourself/
 
 DIY node implementations offer still offer a convenient way to run your own node but with the added bonus that you have more optionality when choosing your hardware. All implementations below are still designed to run on single board computers (SBC) like the Raspberry Pi, but some offer other options such as the more powerful [RockPro 64](https://www.pine64.org/rockpro64/). DIY nodes remove the hardware risk we discussed in the [Plug + Play](/plug-and-play) page because you are free to buy your hardware from anywhere you like. Once you have your chosen hardware you will typically download your chosen project's free and open source software, [flash](https://www.youtube.com/watch?v=Ew9-J70yxAo) it onto an SD card which then goes into your SBC. To mitigate the risk of installing malicious software onto your device, always download from the project's recommended location and [verify](https://www.youtube.com/watch?v=lCG3c8a7HZI) its signature.  
 
-You should choose the project that suits your requirements and skill level. Here are some things to consider before running your own node...
-
-1. What do you need from a node?
-2. What features are you actually going to use?
-3. Which wallets you want to connect to your node?
-4. What hardware does your chosen project support?
-5. What level of support/community is there?
-6. Is the project being actively developed and maintained?
-
 
 ### Table of Contents
 
