@@ -344,14 +344,14 @@ p > img {
 
   a {
     margin-left: 20px;
-    color: #fff;
+    color: $yellow;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: #fff;
+      color: $yellow;
     }
   }
 }
