@@ -19,6 +19,8 @@ permalink: /core/
 
 Could not be easier. Choose the [download](https://bitcoin.org/en/download) specific to you computer's operating system, install and wait for the initial block download to complete (*approx 3-5 days*).
 
+With the inception of software like [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) it is now easier than ever to use your hardware wallet with Bitcoin Core. [Here](https://www.youtube.com/watch?v=4koKF2MDXtk) is a walkthrough on doing exactly that.
+
 ### Limitations
 
 To be able to transact using a wallet that is connected to Bitcoin Core anytime you like, the computer you have it installed on needs to be running all of the time. This may not be practical for doing so on the shared family laptop. If you are running it on a powerful desktop computer, there are also power costs you need to consider.
