@@ -257,3 +257,5 @@ Comes pre built with a Raspberry Pi 4GB.
 * [Setup Video](https://www.youtube.com/watch?v=YMStLevc034)
 
 ***
+
+Want to build your own node? Check out the [DIY](/do-it-yourself) page.
