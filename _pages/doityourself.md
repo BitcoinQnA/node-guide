@@ -205,4 +205,51 @@ The RoninDojo team have provided their own recommended [shopping list](https://w
 
 ## Umbrel
 
+[Umbrel](https://getumbrel.com/)  
+
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/hero-p-1080.png" class=responsive width="600" height="350" maxheight="350">
+
+
+### Features
+
+* 
+
+
+
+### Ease of setup
+
+Order and assemble your desired hardware. Download the [latest software](https://ronindojo.io/downloads/) and flash it to your SD card. Connect to power and your router, then power on the device. Search your network for the devices IP address using a [network scanner](https://angryip.org/). Connect to your device using an SSH tool and complete the [setup](https://wiki.ronindojo.io/gui-setup/step1) process.  
+
+### Limitations
+
+
+
+### Cost
+
+* $
+
+### Recommended Hardware
+
+The RoninDojo team have provided their own recommended [shopping list](https://wiki.ronindojo.io/en/hardware) based on your budget. Be wary using cheaper components or lower powered SBC's as you may run into issues.
+
+- **RockPro 64**
+  - [Pine64 Build Kit](https://minefarmbuy.com/product/pine-build/?v=a284e24d5f46) (*Everything included. Use code #ronindojo for a discount*) - From $325
+  
+- **Raspberry Pi 4 - Geekworm Kit*  
+  - [Raspberry Pi 4 4GB](https://amzn.to/39rYRch) - $56 
+  - [X825 Metal Case](https://amzn.to/2Rppc5g) - $29
+  - [X735 Power Management Expansion Board](https://amzn.to/2UHD5Mr) - $29 
+  - [2.5 inch SATA HDD/SSD Expansion Board X825](https://amzn.to/2vUETco) - $33 
+  - [Power Adapter](https://amzn.to/2XTtLrp) - $19
+  - [Industrial SD Card 16GB](https://www.amazon.com/dp/B07CV344WJ/) - $13
+  - [Samsung EVO 1TB SSD](https://amzn.to/30lDpoo) - $114
+  
+### Other resources
+
+* [Codebase](https://code.samourai.io/ronindojo)
+* [Telegram](https://t.me/RoninDojoUI)
+* [Wiki Page](https://wiki.ronindojo.io)
+* [Setup Video](https://youtu.be/5CxjRXixg4s)
+
 ***
