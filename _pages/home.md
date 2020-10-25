@@ -31,8 +31,8 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [RoninDojo](https://wiki.ronindojo.io/)
     - [Umbrel](https://getumbrel.com/#start)
     
--  **Custom Build** - Using your own specified hardware
-    - [Self Build](/custom) using your own hardware specifications
+-  **Other Options** - Customised setups 
+    - [Other](/other) using your own hardware and software specifications
 
 
 
