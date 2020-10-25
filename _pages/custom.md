@@ -19,4 +19,3 @@ permalink: /custom/
 
 #### Other resources
 
-<span class="underline-on-hover">Hello world</span>
