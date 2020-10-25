@@ -187,12 +187,12 @@ The RoninDojo team have provided their own recommended [shopping list](https://w
   
 - **Raspberry Pi 4 - Geekworm Kit*  
   - [Raspberry Pi 4 4GB](https://amzn.to/39rYRch) - $56 
-  - [Geekworm X825 Metal Case+Power Switch+Cooling Fan](https://amzn.to/2Rppc5g) - $29
-  - [Geekworm X735 Power Management with Safe Shutdown Auto Cooling Expansion Board](https://amzn.to/2UHD5Mr) - $29 
-  - [Geekworm 2.5 inch SATA HDD/SSD Expansion Board X825](https://amzn.to/2vUETco) - $33 
-  - [Geekworm DC 5V 4A Power Adapter](https://amzn.to/2XTtLrp) - $19
-  - [SD Card SanDisk Industrial 16GB](https://www.amazon.com/dp/B07CV344WJ/) - $13
-  - [Samsung EVO 1TB](https://amzn.to/30lDpoo) - $114
+  - [X825 Metal Case](https://amzn.to/2Rppc5g) - $29
+  - [X735 Power Management Expansion Board](https://amzn.to/2UHD5Mr) - $29 
+  - [2.5 inch SATA HDD/SSD Expansion Board X825](https://amzn.to/2vUETco) - $33 
+  - [Power Adapter](https://amzn.to/2XTtLrp) - $19
+  - [Industrial SD Card 16GB](https://www.amazon.com/dp/B07CV344WJ/) - $13
+  - [Samsung EVO 1TB SSD](https://amzn.to/30lDpoo) - $114
   
 ### Other resources
 
