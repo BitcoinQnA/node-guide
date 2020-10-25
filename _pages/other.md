@@ -1,21 +1,8 @@
 ---
 layout: page
-title: Custom Build
-permalink: /custom/
+title: Other Options
+permalink: /other/
 ---
 
 
-#### Features
-
-#### Ease of setup
-
-#### Cost
-
-#### Recommended Hardware
-
-#### Documentation
-
-#### Support
-
-#### Other resources
 
