@@ -42,7 +42,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
 
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
-  <a href="https://btcpayjungle.com/apps/2kYZPktoVSxfp4fWaZjcbnbPpCut/pos">Support</a> |
+  <a href="https://btcpayjungle.com/apps/3xwp1qaqHhw7Rud5YCXvaaxigchE/pos">Support</a> |
   <a href="https://github.com/BitcoinQnA/node-guide">Create a PR</a> 
   <br><br>
 </p>
