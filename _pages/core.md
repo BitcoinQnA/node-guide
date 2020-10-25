@@ -46,4 +46,4 @@ Any laptop or computer and a robust [SSD](https://www.amazon.com/SAMSUNG-Portabl
 
 ***
 
-Tried core and decided you want a dedicated node box? Check out the [Plug + Play](/plug-and-play/) page.
+Tried Core and decided you want to try a dedicated node box? Check out the [Plug + Play](/plug-and-play/) page.
