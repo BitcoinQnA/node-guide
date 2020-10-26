@@ -176,7 +176,7 @@ The RoninDojo team have provided their own recommended [shopping list](https://w
 - **RockPro 64**
   - [Pine64 Build Kit](https://minefarmbuy.com/product/pine-build/?v=a284e24d5f46) (*Everything included. Use code #ronindojo for a discount*) - From $325
   
-- **Raspberry Pi 4 - Geekworm Kit*  
+- **Raspberry Pi 4 - Geekworm Kit**  
   - [Raspberry Pi 4 4GB](https://amzn.to/39rYRch) - $56 
   - [X825 Metal Case](https://amzn.to/2Rppc5g) - $29
   - [X735 Power Management Expansion Board](https://amzn.to/2UHD5Mr) - $29 
