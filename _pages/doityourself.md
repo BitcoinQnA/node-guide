@@ -109,7 +109,7 @@ Order and assemble your desired hardware. Download the [latest software](https:/
 
 ### Limitations
 
-Lack of web user interface may put some users off.
+Lack of web based user interface may put some users off.
 
 ### Cost
 
