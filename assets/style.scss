@@ -278,7 +278,8 @@ p > img {
 }
 
 .site-avatar {
-  float: left;
+  float: none;
+  display: block;
   width: 400px;
   height: 200px;
   margin-right: 0px;
