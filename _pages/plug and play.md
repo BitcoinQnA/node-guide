@@ -232,18 +232,17 @@ The [Embassy One](https://store.start9labs.com/collections/embassy/products/emba
 * Web based UI
 
 
-
 ### Ease of setup
 
 Once you receive the device, connect the hardware and power it on. Inside the setup app, enter your product key and then create your password. You can now log in and start installing and using the available services.
 
 ### Limitations
 
-Limited stock and functionality, no Lightning network.
+No hard drive, all storage is done via an SD card are notoriously unstable. No Lightning network and runs in 'pruned' mode so importing existing wallets is not possible.
 
 ### Cost
 
-* $239 (*no hard drive*)
+* $239
 
 ### Recommended Hardware
 
