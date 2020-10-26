@@ -82,7 +82,7 @@ Some users report reliability issues when upgrading. Support is limited due to a
 
 ## RaspiBlitz
 
-The [RaspiBlitz](https://github.com/rootzoll/raspiblitz) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz is focused more towards those who like to tinker and dont require the shinier user interfaces that some implementations offer. The Blitz also boasts rock sold uptime and well tested update procedures. The entire Blitz software package is free and open source. 
+The [RaspiBlitz](https://github.com/rootzoll/raspiblitz) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz is focused more towards those who like to tinker and dont require the shinier user interfaces that some implementations offer. The Blitz also boasts rock sold uptime and well tested update procedures. The entire Blitz software package is free and open source and is the only implementation that is compatible with an on device display.
 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/mainmenu.png" class=responsive width="300" height="400" maxheight="400">
