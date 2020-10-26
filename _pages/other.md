@@ -16,7 +16,7 @@ There are plenty of options when it comes to running your own node. The previous
 
 #### Nix Bitcoin
 
-[Nix Bitcoin](https://github.com/fort-nix/nix-bitcoin) Nix packages and nixos modules for easily installing Bitcoin nodes and higher layer protocols with an emphasis on security. This is a work in progress - don't expect it to be bug-free, secure or stable. The default configuration sets up a Bitcoin Core node and c-lightning.
+[Nix Bitcoin](https://github.com/fort-nix/nix-bitcoin) packages and nixos modules for easily installing Bitcoin nodes and higher layer protocols with an emphasis on security. This is a work in progress - don't expect it to be bug-free, secure or stable. The default configuration sets up a Bitcoin Core node and c-lightning.
 
 #### Cyphernode
 
