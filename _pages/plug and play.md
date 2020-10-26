@@ -238,7 +238,7 @@ Once you receive the device, connect the hardware and power it on. Inside the se
 
 ### Limitations
 
-No hard drive, all storage is done via an SD card are notoriously unstable. No Lightning network and runs in 'pruned' mode so importing existing wallets is not possible.
+No hard drive, all storage is done via an SD card which can be unstable. No Lightning network and runs in 'pruned' mode so importing existing wallets is not possible.
 
 ### Cost
 
