@@ -18,13 +18,13 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 
 | Node                                | Cost                               |
 |-------------------------------------|------------------------------------|
-| [myNode One](#mynode-one)   (HDD)   | $399                               |
+| [myNode One](#mynode-one) HDD       | $399                               |
 |  w/ SSD                             | $419                               | 
 | [Nodl One](#nodl-one)               | $499                               |
 |  w/ Kill switch                     | +$50                               |
 |  w/ Samourai/Dojo support           | +$50                               |
 | [Nodl Dojo](#nodl-dojo)             | $849                               |
-| [RaspiBlitz](#raspiblitz)   (2GB)   | 269€                               |
+| [RaspiBlitz](#raspiblitz) 2GB       | 269€                               |
 |  4GB                                | 299€                               |
 |  8GB                                | 369€                               |
 |  4GB w/ Terminal style case         | 379€ (4GB)                         |
