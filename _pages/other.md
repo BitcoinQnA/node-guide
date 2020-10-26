@@ -22,3 +22,5 @@ There are plenty of options when it comes to running your own node. The previous
 
 [Cyphernode](https://github.com/SatoshiPortal/cyphernode) is designed to be deployed on virtual machines with launch scripts, but with efficiency and minimalism in mind so that it can also run on multiple Rasberry Pi with very low computing ressources (and extremely low if installing pre-synchronized blockchain and pruned). Because of the modular architecture, heavier modules like blockchain indexers are optional (and not needed for most commercial use-cases).
 
+***
+
