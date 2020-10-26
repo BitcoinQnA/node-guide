@@ -25,9 +25,11 @@ With the inception of software like [Specter Desktop](https://github.com/cryptoa
 
 ### Limitations
 
-To be able to transact using a wallet that is connected to Bitcoin Core anytime you like, the computer you have it installed on needs to be running all of the time. This may not be practical for doing so on the shared family laptop. If you are running it on a powerful desktop computer, there are also power costs you need to consider.
+To be able to transact using a wallet that is connected to Bitcoin Core anytime you like (*think mobile wallets*), the computer you have it installed on needs to be running all of the time. This may not be practical for doing so on the shared family laptop. If you are running it on a powerful desktop computer, there are also power costs you need to consider.
 
-The Bitcoin blockchain is currently around 350GB and growing, this will quickly fill up the hard drive of most home use computers so you may want to look at additional storage.
+The Bitcoin blockchain is currently around 350GB and growing, this will quickly fill up the hard drive of most home use computers so you may want to look at additional storage. A good tradeoff here for someone wanting to use a [Coldcard](https://coldcardwallet.com/), backed by their own node, without the requirement to transact regularly would be to run Bitcoin Core in [pruned mode](https://bitcoin.org/en/full-node#reduce-storage), paired with Specter Desktop. 
+
+Using this setup, the storage requirements are reduced down to 10GB and the user would only need to run Bitcoin Core when they wanted to interact with their hardware wallet. However, pruned nodes cannot perform rescans of existing wallets so the hardware wallet needs to be connected to Specter before starting the IBD. This ensures that historical transactions are picked up and Bitcoin balances are accurate.
 
 ### Cost
 
