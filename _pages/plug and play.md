@@ -164,7 +164,7 @@ Comes pre built with a Rock Pi4 4GB, 16GB eMMC and 2x 1TB SSDs.
 
 The [RaspiBlitz](https://shop.fulmo.org/raspiblitz/) is one of the longest standing node projects and comes feature packed with a significant focus on the Lightning network. The RaspiBlitz boasts rock sold uptime and well tested update procedures. 
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/374A0681-Edit-1024x1024.png" class=responsive width="300" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/blitz1.png" class=responsive width="300" height="250" maxheight="250">
 
 
 ### Features
