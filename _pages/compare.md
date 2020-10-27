@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Test
-permalink: /test-page/
+title: Basic Feature Comparison
+permalink: /compare/
 ---
-
-
-### Feature Comparison
 
 
 | Node                  | Supported Hardware               | Electrum Server | Lightning | CoinJoin   | Block Explorer | Mempool Viewer | Dojo |
