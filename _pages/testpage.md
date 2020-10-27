@@ -7,11 +7,10 @@ permalink: /test-page/
 
 ### Feature Comparison
 
-<center>
 
 | Node                  | Self Build | Supported Hardware                   | Electrum Server | Lightning | CoinJoin   | Block Explorer | Mempool Viewer | Dojo |
 |-----------------------|------------|--------------------------------------|-----------------|-----------|------------|----------------|----------------|------|
-| Bitcoin Core          | No         | Any computer or laptop (with required storage)| No     | No        | None       | No             | No             | No   |
+| Bitcoin Core          | No         | Any computer or laptop (with required storage) | No    | No        | None       | No             | No             | No   |
 | myNode One            | No         | RPi 4                                | Electrs         | LND       | Whirlpool  | Yes            | Yes            | Yes  |
 | myNode DIY Community  | Yes        | Rock64, RockPro 64, RPi 4 and VM     | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  |
 | myNode DIY Premium    | Yes        | Rock64, RockPro 64, RPi 4 and VM     | Elecrs          | LND       | Whirlpool  | Yes            | Yes            | Yes  |
@@ -23,4 +22,3 @@ permalink: /test-page/
 | Start9 Labs Embassy   | No         | RPi 4                                | None            | None      | None       | Yes            | No             | No   |
 | Umbrel                | Yes        | RPi 4 and VM                         | Electrs         | LND       | None       | Yes            | No             | No   |
 
-<center>
