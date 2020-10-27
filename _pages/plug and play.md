@@ -48,7 +48,7 @@ Some users report reliability issues. Currently only shipping to the U.S and Can
 ### Cost
 
 * $279 with no storage supplied
-* $399 with a 1TB hard drive
+* $339 with a 1TB hard drive
 * $419 with a 1TB sold state drive
 
 ### Recommended Hardware
