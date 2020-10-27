@@ -4,7 +4,7 @@ title: DIY Build
 permalink: /do-it-yourself/
 ---
 
-DIY node implementations offer still offer a convenient way to run your own node but with the added bonus that you have more optionality when choosing your hardware. All implementations below are still designed to run on single board computers (SBC) like the Raspberry Pi, but some offer other options such as the more powerful [RockPro 64](https://www.pine64.org/rockpro64/). DIY nodes remove the hardware risk we discussed in the [Plug + Play](/plug-and-play) page because you are free to buy your hardware from anywhere you like. 
+DIY node implementations require you to purchase and build your own hardware which gives you greater freedom to build to your own requirements. All implementations below are still designed to run on single board computers (SBC) like the Raspberry Pi, but some offer other options such as the more powerful [RockPro 64](https://www.pine64.org/rockpro64/). DIY nodes remove the hardware risk we discussed in the [Plug + Play](/plug-and-play) page because you are free to buy your hardware from anywhere you like. 
 
 Once you have your chosen hardware you will typically download your chosen project's free and open source software, [flash](https://www.youtube.com/watch?v=Ew9-J70yxAo) it onto an SD card which then goes into your SBC. To mitigate the risk of installing malicious software onto your device, always download from the project's recommended location and [verify](https://www.youtube.com/watch?v=lCG3c8a7HZI) its signature.  
 
