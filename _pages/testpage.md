@@ -7,6 +7,8 @@ permalink: /test-page/
 
 ### Feature Comparison
 
+<center>
+
 | Node                  | Self Build | Supported Hardware                   | Electrum Server | Lightning | Remote Tor Access | CoinJoin   | Block Explorer | Mempool Viewer | Dojo | BTCPay Server |
 |-----------------------|------------|--------------------------------------|-----------------|-----------|-------------------|------------|----------------|------------------|------|--------------|
 | Bitcoin Core            | No         | Any computer or laptop (with required storage)   | No        | No       | No               | None  | No            | No | No | No |
@@ -21,4 +23,4 @@ permalink: /test-page/
 | Start9 Labs Embassy   | No         | RPi 4                            | None            | None      | Yes               | None       | Yes            | No | No | No |
 | Umbrel                | Yes        | RPi 4 and VM                     | Electrs         | LND       | Yes               | None       | Yes            | No | No | No |
 
-
+<center>
