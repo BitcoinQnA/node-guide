@@ -140,7 +140,7 @@ The RaspiBlitz team have provided their own recommended [shopping list](https://
 
 ## RoninDojo
 
-[RoninDojo](https://ronindojo.io/) is the node for privacy focused Samourai Wallet enthusiasts. They provide support for the Raspberry Pi, Rock64, RockPro 64, RockPi 4 and Odroid N2. The RoninDojo team keep Samourai Wallet as the main focus of their development, but also provide support for almost all other wallets via an Electrum Server. After setup users can choose to interact with a command line interface or the graphical UI shown below. It's worth noting that the [setup](https://wiki.ronindojo.io/en/gui-setup/start) procedure requires a small amount of command line.   
+[RoninDojo](https://ronindojo.io/) is the node for privacy focused Samourai Wallet enthusiasts. They provide support for the Raspberry Pi 4, Rock64, RockPro 64, RockPi 4 and Odroid N2. The RoninDojo team keep Samourai Wallet as the main focus of their development, but also provide support for almost all other wallets via an Electrum Server. After setup users can choose to interact with a command line interface or the graphical UI shown below. It's worth noting that the [setup](https://wiki.ronindojo.io/en/gui-setup/start) procedure requires a small amount of command line.   
 
 
 <img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/RoninDojoGUI-product.png" class=responsive width="600" height="350" maxheight="350">
