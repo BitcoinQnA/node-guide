@@ -25,6 +25,9 @@ The full node software (Core 0.18.1 and Knots 0.18.0 and Elements 0.17.0.1) is m
 
 [Nix Bitcoin](https://github.com/fort-nix/nix-bitcoin) packages and nixos modules for easily installing Bitcoin nodes and higher layer protocols with an emphasis on security. This is a work in progress - don't expect it to be bug-free, secure or stable. The default configuration sets up a Bitcoin Core node and c-lightning.
 
+#### RaspiBolt
+
+[RaspiBolt](https://stadicus.github.io/RaspiBolt/) is a Bitcoin/Lightning node implementation that you build from the ground up with the help of the extremely comprehensive setup guide. The guide walks you through downloading and installing each piece of software for your node through the command line. It is designed for the Raspberry Pi 4 running any Debian based Linux distribution. 
 
 #### Samourai Dojo
 
