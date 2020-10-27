@@ -13,7 +13,7 @@ permalink: /test-page/
 | [Bitcoin Core](https://node.guide/core/)        | Any computer or laptop           | No              | No        | None       | No             | No             | No   |
 | [myNode One](https://node.guide/plug-and-play/#mynode-one)            | RPi 4                            | Electrs         | LND       | Whirlpool  | Yes            | Yes            | Yes  |
 | [myNode DIY Community](https://node.guide/do-it-yourself/#mynode)  | Rock64, RockPro 64, RPi 4 and VM | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  |
-| myNode DIY Premium    | Rock64, RockPro 64, RPi 4 and VM | Elecrs          | LND       | Whirlpool  | Yes            | Yes            | Yes  |
+| [myNode DIY Premium](https://node.guide/do-it-yourself/#mynode)    | Rock64, RockPro 64, RPi 4 and VM | Elecrs          | LND       | Whirlpool  | Yes            | Yes            | Yes  |
 | [Node One](https://node.guide/plug-and-play/#nodl-one)              | RockPi 4                         | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  | 
 | [Nodl Dojo](https://node.guide/plug-and-play/#nodl-dojo)             | RockPi 4                         | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  |
 | [RoninDojo](https://node.guide/do-it-yourself/#ronindojo)             | Odroid N2, RockPro 64 and RPi    | Electrs         | None      | Whirlpool  | Yes            | No             | Yes  |
