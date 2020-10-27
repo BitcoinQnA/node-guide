@@ -18,7 +18,7 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 
 | Node                                | Cost                               |
 |-------------------------------------|------------------------------------|
-| [myNode One](#mynode-one) HDD       | $399                               |
+| [myNode One](#mynode-one) HDD       | $339                               |
 |  w/ SSD                             | $419                               | 
 | [Nodl One](#nodl-one)               | $499                               |
 |  w/ Kill switch                     | +$50                               |
