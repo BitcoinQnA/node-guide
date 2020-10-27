@@ -47,9 +47,9 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [Umbrel](https://getumbrel.com/#start)
 
 -  **Other Options** - Customised setups
-    Android:
-    - [ABCore](https://github.com/greenaddress/abcore)
-    - [Nayuta Core](https://nayuta.co/core/)
+    - Android:
+      - [ABCore](https://github.com/greenaddress/abcore)
+      - [Nayuta Core](https://nayuta.co/core/)
     - [Other](/other) using your own hardware and software specifications
 
 
