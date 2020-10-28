@@ -8,11 +8,12 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 
 ### Table of Contents
 
-2.  [myNode One](#mynode-one)
+1.  [myNode One](#mynode-one)
 2.  [Nodl One](#nodl-one)
 3.  [Nodl Dojo](#nodl-dojo)
 4.  [RaspiBlitz](#raspiblitz)
 5.  [Start9 Embassy](#start9-embassy)
+6.  [Build-A-Node](#build-a-node)
 
 ***
 
@@ -31,7 +32,7 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 |                                     | 369€ (8GB)                         |
 |                                     | 379€ (4GB) w/ terminal style case  |
 | [Start9 Embassy](#start9-embassy)   | $239                               |
-
+| [Build-A-Node](#build-a-node)       | From $410                          |
 
 ## myNode One
 
@@ -271,6 +272,29 @@ Comes pre built with a Raspberry Pi 4GB.
 * [Telegram](https://t.me/start9_labs)
 * [Guide Page](https://docs.start9labs.com/)
 * [Setup Video](https://www.youtube.com/watch?v=YMStLevc034)
+
+***
+
+## Build-A-Node
+
+The [CryptoCloaks](https://www.cryptocloaks.com) team offer a [build a node](https://www.cryptocloaks.com/product/build-a-node/) service that lets you customise and build your own node. The node comes pre built ready to plug in with a choice of the myNode community, myNode premium or RaspiBlitz software. You can also create a custom case for your node to add a more personal touch.
+
+<img src="https://github.com/BitcoinQnA/node-guide/blob/master/images/PXL_20201007_111600379-removebg-preview.png?raw=true" class=responsive width="300" height="250" maxheight="250">
+
+### Cost
+
+* From $410
+
+### Recommended Hardware
+
+Comes packaged with this base hardware but upgrades are available.
+
+* Raspberry Pi Model 4B 4GB
+* Pimoroni Fan Shim
+* 32GB SD Card
+* 1TB SSD
+* 3.5″ LCD (*RaspiBlitz only*)
+* Custom case
 
 ***
 
