@@ -277,7 +277,7 @@ Comes pre built with a Raspberry Pi 4GB.
 
 ## Build-A-Node
 
-The [CryptoCloaks](https://www.cryptocloaks.com) team offer a [build a node](https://www.cryptocloaks.com/product/build-a-node/) service that lets you customise and build your own node. The node comes pre built ready to plug in with a choice of the myNode community, myNode premium or RaspiBlitz software. You can also create a custom case for your node to add a more personal touch.
+The [CryptoCloaks](https://www.cryptocloaks.com) team offer a [build a node](https://www.cryptocloaks.com/product/build-a-node/) service that lets you customise your own plug + play node. The node will arrive ready to go with a choice of the myNode community, myNode premium or RaspiBlitz software. You can also create a custom case for your node to add a more personal touch.
 
 <img src="https://github.com/BitcoinQnA/node-guide/blob/master/images/PXL_20201007_111600379-removebg-preview.png?raw=true" class=responsive width="300" height="250" maxheight="250">
 
