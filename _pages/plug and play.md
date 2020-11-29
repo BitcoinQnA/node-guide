@@ -14,6 +14,7 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 4.  [RaspiBlitz](#raspiblitz)
 5.  [Start9 Embassy](#start9-embassy)
 6.  [Build-A-Node](#build-a-node)
+7.  [The Bitcoin Machine](#the-bitcoin-machine)
 
 ***
 
@@ -33,6 +34,7 @@ Plug and Play node boxes offer a convenient way to run your own node. Most run o
 |                                     | 379€ (4GB) w/ terminal style case  |
 | [Start9 Embassy](#start9-embassy)   | $239                               |
 | [Build-A-Node](#build-a-node)       | From $410                          |
+| [The Bitcoin Machine](#the-bitcoin-machine)       | From $199            |
 
 ## myNode One
 
@@ -294,6 +296,28 @@ Comes packaged with this base hardware but upgrades are available.
 * 32GB SD Card
 * 1TB SSD
 * 3.5″ LCD (*RaspiBlitz only*)
+* Custom case
+
+***
+## The Bitcoin Machine
+
+[The Bitcoin Machine](https://thebitcoinmachines.com/) team offer four different pre built node options based on the Raspberry Pi 4B. The package is designed with a customised case and unique 'machine face' which acts as a Bitcoin ticker that can display the price, block height, total supply and network hash power. The case can also be personalised the case with a choice of colours. The Bitcoin Machine does not come pre-installed with any node software, and is designed to allow the user to pick from any Raspberry Pi compatibile implementation by falshing their own software onto the provided SD card.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/tbm-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
+
+### Cost
+
+* From $199
+
+### Recommended Hardware
+
+Comes packaged with this base hardware but upgrades are available.
+
+* Raspberry Pi Model 4B (Various RAM options)
+* SATA expansion board
+* 1.8" Display
+* 1TB HDD or SSD
+* Custom heat controller
 * Custom case
 
 ***
