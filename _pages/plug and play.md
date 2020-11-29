@@ -303,7 +303,7 @@ Comes packaged with this base hardware but upgrades are available.
 
 [The Bitcoin Machine](https://thebitcoinmachines.com/) team offer four different pre built node options based on the Raspberry Pi 4B. The package is designed with a customised case and unique 'machine face' which acts as a Bitcoin ticker that can display the price, block height, total supply and network hash power. The case can also be personalised the case with a choice of colours. The Bitcoin Machine does not come pre-installed with any node software, and is designed to allow the user to pick from any Raspberry Pi compatibile implementation by falshing their own software onto the provided SD card.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/tbm-removebg-preview.png" class=responsive width="300" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/tbm-removebg-preview.png" class=responsive width="400" height="250" maxheight="250">
 
 ### Cost
 
