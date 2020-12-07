@@ -13,7 +13,7 @@ permalink: /compare/
 | [myNode DIY Premium](https://node.guide/do-it-yourself/#mynode)    | Rock64, RockPro 64, RPi 4 and VM | Elecrs          | LND       | Whirlpool  | Yes            | Yes            | Yes  |
 | [Node One](https://node.guide/plug-and-play/#nodl-one)              | RockPi 4                         | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  | 
 | [Nodl Dojo](https://node.guide/plug-and-play/#nodl-dojo)             | RockPi 4                         | Electrs         | LND       | Whirlpool  | Yes            | No             | Yes  |
-| [RoninDojo](https://node.guide/do-it-yourself/#ronindojo)             | Odroid N2, RockPro 64 and RPi    | Electrs         | None      | Whirlpool  | Yes            | No             | Yes  |
+| [RoninDojo](https://node.guide/do-it-yourself/#ronindojo)             | Odroid N2, RockPro 64 and RPi    | Electrs         | None      | Whirlpool  | Yes            | Yes             | Yes  |
 | [RaspiBlitz](https://node.guide/plug-and-play/#raspiblitz)            | RPi 4                            | Electrs         | LND       | JoinMarket | Yes            | Yes            | No   |
 | [RaspiBlitz DIY](https://node.guide/do-it-yourself/#raspiblitz)        | RPi 3 and RPi 4                  | Electrs         | LND       | JoinMarket | Yes            | Yes            | No   |
 | [Start9 Labs Embassy](https://node.guide/plug-and-play/#start9-embassy)   | RPi 4                            | None            | None      | None       | Yes            | No             | No   |
