@@ -37,5 +37,9 @@ The full node software (Core 0.18.1 and Knots 0.18.0 and Elements 0.17.0.1) is m
 
 [Ubuntu Node Box](https://www.youtube.com/watch?v=BIrL1lNsnJQ&list=PLCRbH-IWlcW17JxQ4mdv9DwSMJZlvUOle&index=1) is a video guide by Ketan of [Ministry of Nodes](https://www.ministryofnodes.com.au/). In this series, Ketan covers setting up a node in an Ubuntu virtual machine to download and install Bitcoin Core, Electrum Server, Lightning, BTCPay Server, JoinMarket, Whirlpool and much more.
 
+#### Voltage
+
+[Voltage](https://getvoltage.io) provides Cloud hosting for Lightning Network nodes. Every user gets their own dedicated and always on Lightning node. Users have complete control over their node and funds at all times. You can be up and running on the Lightning Network in 2 minutes. All users get access to their node's APIs so they can use any software from any location. [Voltage doesn't have the ability to access user's funds or see transactions](https://getvoltage.io/blog/how-voltage-works.html).
+
 ***
 
