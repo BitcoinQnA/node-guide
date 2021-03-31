@@ -241,5 +241,53 @@ Still an early project with minimal 'extra' features when compared with some of 
 * [Setup Video](https://www.youtube.com/watch?v=fppmhqjqh2E)
 
 ***
+## eznode
+
+[eznode](https://ezno.de) is another new node project with a simple setup process.
+
+It is lightweight, minimalistic, supports pruning and can run on your main PC.
+
+<img src="https://raw.githubusercontent.com/BitcoinQnA/node-guide/master/images/eznode.png" class=responsive width="420" height="398" maxheight="398">
+
+### Features
+
+* Simple one-command setup
+* Pruning friendly
+* Optional trusted [fast-sync](https://ezno.de/packages/#fast-sync) mode
+* Personal Electrum Server ([BWT](https://bwt.dev))
+* Block Explorer
+* Specter Desktop
+* Remote access through Tor, SSH tunnels or SSL
+* Supports Linux, macOS, Windows and ARMv7/v8
+
+### Ease of setup
+
+eznode can run on a dedicated box (SBCs like Raspberry are supported) or on your main computer/laptop.
+It requires <5GB of storage.
+
+You can use any OS you like. The only requirement is to have [Docker installed](https://docs.docker.com/get-docker/).
+
+To start eznode with a pruned node, a personal Electrum server tracking your `<xpub>` and a block explorer,
+run `docker run -it --rm --name ez -v ~/eznode:/data eznode/eznode XPUB=<xpub>`.
+See more instructions [here](https://ezno.de/getting-started).
+
+### Limitations
+
+The most minimalistic of the projects, only supporting a few programs at this time.
+No Lightning support (yet).
+Doesn't have a web dashboard frontend.
+Configuration is done through a config file or CLI arguments (but is rather minimal).
+
+### Cost
+
+Can run on a Raspberry Pi 3 ($40) using an internal SD card ($7 for 16GB) and no additional external storage.
+
+### Other resources
+
+* [Codebase](https://github.com/ez-org/eznode)
+* [Telegram](https://t.me/ez_node)
+* [Twitter](https://twitter.com/eznode_)
+* [Setup Guide](https://ezno.de/getting-started)
+
 
 Check out the [other](/other) options available for more advanced users.

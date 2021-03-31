@@ -45,6 +45,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [Raspi Blitz](https://github.com/rootzoll/raspiblitz)
     - [RoninDojo](https://wiki.ronindojo.io/)
     - [Umbrel](https://getumbrel.com/#start)
+    - [eznode](https://ezno.de)
 
 ### Other Options
 

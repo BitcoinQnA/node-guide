@@ -18,11 +18,13 @@ permalink: /compare/
 | [RaspiBlitz DIY](https://node.guide/do-it-yourself/#raspiblitz)        | RPi 3 and RPi 4                  | Electrs         | LND       | JoinMarket | Yes            | Yes            | No   |
 | [Start9 Labs Embassy](https://node.guide/plug-and-play/#start9-embassy)   | RPi 4                            | None            | None      | None       | Yes            | No             | No   |
 | [Umbrel](https://node.guide/do-it-yourself/#umbrel)                | RPi 4 and VM                     | Electrs         | LND       | None       | Yes            | No             | No   |
+| [eznode](https://node.guide/do-it-yourself/#eznode)                | Any computer, laptop or SBC | Bitcoin Wallet Tracker | None       | None       | Yes            | Yes            | No   |
 
 
 ### Glossary
 
 [Electrum Server](https://github.com/romanz/electrs) indexes the entire Bitcoin blockchain, and the resulting index enables fast queries for any given user wallet, allowing the user to keep real-time track of balances and transaction histories. Since it runs on the user's own machine, there is no need for the wallet to communicate with external Electrum servers, thus preserving the privacy of the user's addresses and balances.
+There is also an alternative personal server model where only wallet-related transactions are indexed.
 
 [Lightning](https://www.bitcoinqna.com/lightning) is scaling solution built on top of the Bitcoin protocol. It facilitates smaller, near instant payments between users at very low cost. It prevents the need for every transaction made to take place on the Bitcoin ‘base layer’ whilst still ensuring that the value being transacted abides by the core rules and values of the Bitcoin network.
 
