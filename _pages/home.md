@@ -37,12 +37,12 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
 -  **Plug + Play** - Pre built dedicated node boxes that are ready to roll
     - [myNode One](https://mynodebtc.com/products/one)
     - [Nodl One](https://shop.nodl.it/en/) + [Nodl Dojo](https://shop.nodl.it/en/)
-    - [Raspi Blitz](https://shop.fulmo.org/product-category/raspiblitz/)
+    - [RaspiBlitz](https://shop.fulmo.org/product-category/raspiblitz/)
     - [Start9 Embassy](https://store.start9labs.com/collections/embassy)
 
 -  **DIY** - Build your own node using specified hardware + software
     - [myNode](https://mynodebtc.com/products/community_edition)
-    - [Raspi Blitz](https://github.com/rootzoll/raspiblitz)
+    - [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
     - [RoninDojo](https://wiki.ronindojo.io/)
     - [Umbrel](https://getumbrel.com/#start)
     - [eznode](https://ezno.de)
