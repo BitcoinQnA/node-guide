@@ -16,7 +16,7 @@ permalink: /compare/
 | [RoninDojo](https://node.guide/do-it-yourself/#ronindojo)             | Odroid N2, RockPro 64 and RPi    | Electrs         | None      | Whirlpool  | Yes            | Yes             | Yes  | No |
 | [RaspiBlitz](https://node.guide/plug-and-play/#raspiblitz)            | RPi 4                            | Electrs         | LND       | JoinMarket | Yes            | Yes            | No   | No |
 | [RaspiBlitz DIY](https://node.guide/do-it-yourself/#raspiblitz)        | RPi 3 and RPi 4                  | Electrs         | LND       | JoinMarket | Yes            | Yes            | No   | No |
-| [Start9 Labs Embassy](https://node.guide/plug-and-play/#start9-embassy)   | RPi 4                            | None            | None      | None       | Yes            | No             | No   | Yes |
+| [Start9 Labs Embassy](https://node.guide/plug-and-play/#start9-embassy)   | RPi 4                            | None            | LND+C-Lightning      | None       | No            | No             | No   | Yes |
 | [Umbrel](https://node.guide/do-it-yourself/#umbrel)                | RPi 4 and VM                     | Electrs         | LND       | None       | Yes            | No             | No   |  No |
 | [eznode](https://node.guide/do-it-yourself/#eznode)                | Any computer, laptop or SBC | Bitcoin Wallet Tracker | None       | None       | Yes            | Yes            | No   |  Yes |
 

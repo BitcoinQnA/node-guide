@@ -248,8 +248,8 @@ The [Embassy One](https://store.start9labs.com/collections/embassy/products/emba
 * Bitwarden password manager
 * File browser
 * Remote Tor access
-* Companion phone app
 * Web based UI
+* Matrix chat
 
 
 ### Ease of setup
@@ -258,11 +258,11 @@ Once you receive the device, connect the hardware and power it on. Inside the se
 
 ### Limitations
 
-No hard drive, all storage is done via an SD card which can be unstable. No Lightning network and runs in 'pruned' mode so importing existing wallets is not possible.
+No hard drive, all storage is done via an SD card which can be unstable. Runs in 'pruned' mode so importing existing wallets is not possible.
 
 ### Cost
 
-* $239
+* $364
 
 ### Recommended Hardware
 
