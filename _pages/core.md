@@ -1,8 +1,18 @@
 ---
-layout: page
-title: Bitcoin Core
-permalink: /core/
+layout: default
 ---
+
+[![bitcoinerheader](/node/assets/images/nodeheader.png)](/node)
+
+<p align="center">
+  <a href="/node/core">Core</a> |
+  <a href="/node/pap">Plug + Play</a> |
+  <a href="/node/diy">DIY</a> |
+  <a href="/node/other">Other</a> |
+  <a href="/node/compare">Compare</a>
+  <br><br>
+</p>
+
 
 'Bitcoin Core' is the name of the [software](https://github.com/bitcoin/bitcoin) at the heart of **every** node implementation listed on this website. It is the ruleset that all Bitcoin users agree upon. The rest of this page covers the graphical user interface that is built around this software and is maintained by Core [developers](https://github.com/bitcoin/bitcoin/graphs/contributors).  
 
@@ -22,6 +32,8 @@ permalink: /core/
 Could not be easier. Choose the [download](https://bitcoin.org/en/download) specific to you computer's operating system, install and wait for the initial block download to complete (*approx 3-5 days*).
 
 With the inception of software like [Specter Desktop](https://github.com/cryptoadvance/specter-desktop) it is now easier than ever to use your hardware wallet with Bitcoin Core. [Here](https://www.youtube.com/watch?v=4koKF2MDXtk) is a walkthrough on doing exactly that.
+
+UPDATE - Specter now comes prepackaged with Bitcoin Core, making setup even easier! See [here](/specter) for instructions. 
 
 ### Limitations
 
@@ -50,4 +62,4 @@ Any laptop or computer and a robust [SSD](https://www.amazon.com/SAMSUNG-Portabl
 
 ***
 
-Tried Core and decided you want to try a dedicated node box? Check out the [Plug + Play](/plug-and-play/) page.
+Tried Core and decided you want to try a dedicated node box? Check out the [Plug + Play](/node/pap) page.

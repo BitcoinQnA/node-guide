@@ -1,9 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
-[Bitcoin Node Guide](https://node.guide/) was built to educate Bitcoiners on the importance of running a node. Our aim is to produce an information hub that provides you with enough knowledge to decide which implementation is right for you.
+
+[![bitcoinerheader](/node/assets/images/nodeheader.png)](/node)
+
+
+[Bitcoin Node Guide](https://bitcoiner.guide/node) was built to educate Bitcoiners on the importance of running a node. Our aim is to produce an information hub that provides you with enough knowledge to decide which implementation is right for you.
 
 ***Your node, your rules.***
 
@@ -13,8 +15,7 @@ We aim to keep this site up to date with the development or additions of new nod
 
 <p align="center">
   <a href="https://twitter.com/BitcoinQ_A">By Bitcoin Q+A</a> |
-  <a href="https://bqa.duckdns.org:20486/apps/96ZvtoJQr9bz5QyeDoUfhkmNTLZ/pos">Support</a> |
+  <a href="http://stacking.tips">Support</a> |
   <a href="https://github.com/BitcoinQnA/node-guide">Create a PR</a> 
   <br><br>
 </p>
-

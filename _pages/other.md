@@ -1,8 +1,18 @@
 ---
-layout: page
-title: Other Options
-permalink: /other/
+layout: default
 ---
+
+[![bitcoinerheader](/node/assets/images/nodeheader.png)](/node)
+
+<p align="center">
+  <a href="/node/core">Core</a> |
+  <a href="/node/pap">Plug + Play</a> |
+  <a href="/node/diy">DIY</a> |
+  <a href="/node/other">Other</a> |
+  <a href="/node/compare">Compare</a>
+  <br><br>
+</p>
+
 
 There are plenty of options when it comes to running your own node. The previous pages cover the most popular and user friendly routes. The options that follow are geared more towards advanced users who may require a custom configuration to serve a specific purpose. 
 
