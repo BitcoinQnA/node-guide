@@ -66,6 +66,7 @@ Is your project missing? Please create an [issue](https://github.com/BitcoinQnA/
     - [myNode](https://mynodebtc.com/products/community_edition)
     - [RaspiBlitz](https://github.com/rootzoll/raspiblitz)
     - [RoninDojo](https://wiki.ronindojo.io/)
+    - [Embassy One](https://start9.com/latest/diy)
     - [Umbrel](https://getumbrel.com/#start)
 
 ### Other Options
